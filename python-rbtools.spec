@@ -12,7 +12,7 @@ URL:		http://www.review-board.org/
 BuildRequires:	python-devel
 BuildRequires:	python-distribute
 BuildRequires:	rpm-pythonprov
-BuildRequires:	rpmbuild(macros) >= 1.219
+BuildRequires:	rpmbuild(macros) >= 1.710
 Requires:	python-setuptools
 Requires:	python-simplejson
 Obsoletes:	RBTools
